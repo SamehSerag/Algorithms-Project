@@ -1,5 +1,5 @@
 
-# Examination System
+# Dijkstra and Maximum Flow Desktop App
 
 A Desktop application that gives the possibility to generate directed graph using our Graphic User Interface (GUI) and apply one of the two algorithms which are Dijkstra and Maximum Flow algorithms, using Java and Java Swing.
 
