@@ -33,11 +33,6 @@ A Desktop application that gives the possibility to generate directed graph usin
 - JUNG lib for Graphs
 
 
-## Documentation
-
-[Presentaion](https://prezi.com/view/APXmotcSkwVCZNfdszDU/)
-
-
 ## Requirements
 - Java Environment
 - Netbeans 
