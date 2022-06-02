@@ -8,6 +8,8 @@ A Desktop application that gives the possibility to generate directed graph usin
 ## Features
 - User Can Enter Unlimited Vertices               
 - User Can Enter Directed Edges  
+- User Can applay Dijkstra or Maximum Flow algorithms
+- User Can See The Answer Step by Step
 
 ## Screenshots
 
